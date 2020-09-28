@@ -1,16 +1,11 @@
 package exercises;
 
-import tbs.SimpleGfx;
-
-public class Graphics1 {
+public class Exercise2 {
 	public static void main(String[] args) {
 		question1(); // Write the question you want to test here.
 	}
 	
-	public static void question1() {
-		SimpleGfx s = SimpleGfx.startup(640, 480);
-		s.setColour(0x0000f0);
-		s.clear();		
+	public static void question1() {		
 	}
 	
 	public static void question2() {
@@ -33,4 +28,3 @@ public class Graphics1 {
 		
 	}
 }
-
